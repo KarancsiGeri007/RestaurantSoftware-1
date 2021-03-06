@@ -1,0 +1,19 @@
+.button00 {
+    -fx-font-weight: bold;
+    -fx-background-color: lightgreen;
+}
+
+.label {
+    /*-fx-background-color: yellow;*/
+    -fx-font-weight: bold;
+}
+
+.loader {
+    -fx-background-color: lightblue;
+    
+}
+
+/*.border{
+    -fx-border-color:black;
+    -fx-border-style:solid;
+}*/
